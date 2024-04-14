@@ -3,7 +3,7 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>Microsoft Azure</b>
-  - [Creating a virtual machine (VM) in Microsoft Azure and deploying it using Remote Desktop Connection](https://github.com/kayteedee/azure-network-protocols)
+  - [Creating a virtual machine (VM) in Microsoft Azure and deploying it using Remote Desktop Connection](https://github.com/kayteedee/vm-remotedesktop)
   - [Network Security Groups(NSGs) and Inspecting Network Protocols](https://github.com/kayteedee/-azure-network-protocols)
   - [Configuring Active Directory within Azure VMs](https://github.com/kayteedee/configure-ad)
     
