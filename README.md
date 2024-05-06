@@ -9,7 +9,7 @@
     
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/kayteedee/osticket-prereqs) (coming soon)
-  - [osTicket: Post-Installation Configuration](https://github.com/kayteedeec/post-install-config)
+  - [osTicket: Post-Installation Configuration](https://github.com/kayteedee/post-install-config/blob/main/README.md)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/kayteedee/ticket-lifecycle)
 
 
