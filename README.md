@@ -1,4 +1,4 @@
-<h1>Hi, I'm Katie, an <a href="www.linkedin.com/in/katie-davis-898578262">IT Professional</a> 👋 </h1> 
+<h1>Hi, I'm Katie, an <a href="www.linkedin.com/in/katie-davis-898578262">IT Enthusiast</a> 👋 </h1> 
 
 <h2>👩‍💻 Information Technology Projects:</h2>
 
@@ -8,7 +8,7 @@
   - [Configuring Active Directory within Azure VMs](https://github.com/kayteedee/configure-ad) 
     
 - <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/kayteedee/osticket-prereqs) (coming soon)
+  - [osTicket: Prerequisites and Installation](https://github.com/kayteedee/osticket-prereqs) 
   - [osTicket: Post-Installation Configuration](https://github.com/kayteedee/post-install-config/blob/main/README.md)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/kayteedee/ticket-lifecycle)
 
