@@ -1,4 +1,4 @@
-<h1>Hi, I'm Katie, an <a href="www.linkedin.com/in/katie-davis-898578262">IT Enthusiast</a> 👋 </h1> 
+<h1>Hi, I'm Katie, an <a href="www.linkedin.com/in/katie-davis-898578262">IT & Cybersecurity Enthusiast</a> 👋 </h1> 
 
 <h2>👩‍💻 Information Technology Projects:</h2>
 
